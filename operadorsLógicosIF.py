@@ -37,5 +37,5 @@ elif a<b or c!=a:
     print("(or) Isso é verdade!")
 
 # não podemos criar if, elif ou else vazio, se precisar criar assim, use o pass.
-if a<b:
+if a < b:
     pass
