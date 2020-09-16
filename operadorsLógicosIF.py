@@ -29,3 +29,6 @@ if a < b:
     print("A é menor que B")
 elif a == b:
     print("A é igual a B")
+
+if a != b:
+    pass #pass é o mesmo que passar, para que o if não fique em branco
