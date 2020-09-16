@@ -1,6 +1,6 @@
 #for é um laço ou estrutura de iteração
 
-#Percorrer uma lista
+#Percorrer valores de uma lista
 minhaLista = ['Java', 'JS', 'Dart', 'Ruby', 'Python']
 for x in minhaLista:
     print("Minha Linguagem: ", x)
