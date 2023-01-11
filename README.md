@@ -1,2 +1,1 @@
-# Aula-16-09
-Conteúdo do dia 16/09
+# Laços de repetição e operadores lógicos
